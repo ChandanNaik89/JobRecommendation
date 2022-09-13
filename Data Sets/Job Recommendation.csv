@@ -1,0 +1,1201 @@
+Applicant ID,Name,Budget,Primary Skill,Secondary Skill,Project Location,Company,Time Zone,Work Hours,Avablity
+111,Amit Kumar,5 LPA,Java,React JS,India,Tacolicious,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+113,Aniket M,5 LPA,Python,Angular JS,India,Claude Lane,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+117,Sandeep,4 LPA,Angular JS,Ruby,India,Machka Restaurants Corp.,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+121,Sandesh,5 LPA,"C, C++",Java,India,Teriyaki House,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+127,Sumant,2 LPA,"HTML,CSS",Perl,India,Rosa Mexicano - Sunset,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+129,Vijay,5 LPA,Node JS,PHP,India,Mind of Beauty Day Spa,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+131,Dilip,6.5 LPA,Perl,SQL,India,Roy's Woodland Hills,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+133,Suraj,3 LPA,SQL,CSS,India,KoJa Kitchen,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134273,Ranga,3 LPA,React JS,AWS,India,King's Food Markets,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134274,Rajesh,2 LPA,Java,Angular JS,India,ALDI,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134275,Sunil,10 LPA,Angular JS,CSS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134276,Ankit,15 LPA,"HTML,CSS",React JS,India,Kroger - Louisville,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134277,Varun,12 LPA,"C, C++",AWS,India,Coca-Cola Bottling Company Consolidated,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134278,Aditya,15 LPA,React JS,HTML,India,"CATCH, Inc.",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134279,Sourav,8 LPA,"HTML,CSS",SQL,India,Kroger - Louisville,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134280,Sachin,8 LPA,AWS,PHP,India,LongHorn Steakhouse,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134281,Rahul,9 LPA,"HTML,CSS",SQL,India,New York Community Bank,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134282,Laxman,8.5 LPA,Java,Angular JS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134283,Virender,7.5 LPA,Java,Angular JS,India,Holiday Inn Express- Independently Owned & Operated,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134284,Mahender,8 LPA,React JS,Java,India,Kroger - Louisville,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134285,Ajit,9 LPA,PHP,CSS,India,ALDI,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134286,Zaheer,10 LPA,Java,HTML,India,ABBA Medical Transportation,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134287,Balaji,12 LPA,"HTML,CSS",PHP,India,State Street Bank,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134288,Anil,13 LPA,Java,HTML,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134291,Javagal,8 LPA,"HTML,CSS",SQL,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134292,Venktesh,12 LPA,Java,React JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134293,Debashish,13 LPA,Python,Angular JS,India,"Peanut Gallery -- Galleria location, Dallas, TX",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134295,Naman,8 LPA,Angular JS,Ruby,India,MICHAEL HILL,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134296,Romesh,9 LPA,"C, C++",Java,India,MICHAEL HILL,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134297,Ramesh,8 LPA,"HTML,CSS",SQL,India,MICHAEL HILL,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134298,Chaminda,6.5 LPA,Node JS,PHP,India,MICHAEL HILL,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134300,Marvan,9 LPA,PHP,Perl,India,Stanley Staffing,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134301,Ranatunga,10 LPA,SQL,CSS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134302,Angelo,7.5 LPA,React JS,Java,India,"AAM, LLC.",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134303,Dilhara,8 LPA,Perl,Angular JS,India,HCA-Tristar Health,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134304,Tilkaratene,9 LPA,AWS,CSS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134305,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,ALDI,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134306,Muthaiaa,9 LPA,"C, C++",Angular JS,India,Corizon,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134307,Murlitharan,8 LPA,AWS,HTML,India,Kelly IT Resources,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134308,Roshan,9 LPA,"HTML,CSS",SQL,India,Volunteers of America Greater Ohio,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134309,Mahanama,10 LPA,"C, C++",AWS,India,South Davis Community Hospital,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134310,Dharamsena,11 LPA,"HTML,CSS",SQL,India,Community Health Charities,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134312,Sangakara,12 LPA,Perl,Angular JS,India,"United Recovery Systems, LP",Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134313,Jayawardene,8 LPA,GIT,Angular JS,India,Just 4 Kids Child Care Center,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134314,Mathews,9 LPA,"HTML,CSS",AWS,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134315,Chandana,8 LPA,PHP,CSS,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134316,Upul,9 LPA,Java,HTML,India,Global Technology Associates,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134317,Tharanga,8 LPA,"HTML,CSS",PHP,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134318,Rajverdhan,9 LPA,Java,HTML,India,Coca-Cola Bottling Company Consolidated,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134320,Senanayake,8 LPA,"HTML,CSS",SQL,India,Jackson North Medical center,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134321,Brian,9 LPA,"HTML,CSS",Perl,Peru,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134322,Lara,9 LPA,GIT,CSS,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134323,Curtely ,8 LPA,Perl,GIT,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134324,Ambrose,7.5 LPA,AWS,Azure,Brazil,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134327,Garry,3 LPA,AWS,GIT,Brazil,American Golf Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134328,Sobers,9 LPA,Docker,Kotlin,Argentina,American Golf Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134332,Ian,9 LPA,Java,React JS,Argentina,"United Natural Foods, Inc.",Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134333,Bishop,5 LPA,Python,Angular JS,Argentina,BK GLOBAL,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134334,Chris,5 LPA,Angular JS,Ruby,Argentina,Kirby Risk Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134335,Gayel,4 LPA,"C, C++",Java,Argentina,Main Line Health System,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134340,Carl,5 LPA,"HTML,CSS",Perl,Argentina,University Health System,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134343,Hooper,2 LPA,Node JS,PHP,Argentina,HCA-North Texas Division Inc.,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134344,Ramnaresh,5 LPA,Perl,SQL,Argentina,DST,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134345,Sarwan,6.5 LPA,SQL,CSS,Argentina,Service Corporation International,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134346,Shivnarein,3 LPA,React JS,AWS,Argentina,Lucky Eagle Casino,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134348,Chanderpaul,3 LPA,Java,Angular JS,Colombia,RGIS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134350,Dwayen,2 LPA,Angular JS,CSS,Colombia,RGIS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134354,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134355,Darren,15 LPA,"C, C++",AWS,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134356,Bravo,12 LPA,React JS,HTML,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134357,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134358,Pollard,8 LPA,AWS,PHP,Colombia,Aaron's Sales and Lease,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134360,Steve,8 LPA,"HTML,CSS",SQL,Colombia,SSM Health Care Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134369,Waugh,9 LPA,Java,Angular JS,Colombia,Brightview Senior Living,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134370,Mark,8.5 LPA,Java,Angular JS,Colombia,UnitedHealth Group,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134373,Waugh,7.5 LPA,React JS,Java,Colombia,UnitedHealth Group,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134375,Grant,8 LPA,PHP,CSS,Colombia,UnitedHealth Group,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134376,Jones,9 LPA,Java,HTML,Alberta,UnitedHealth Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134377,Andy,10 LPA,"HTML,CSS",PHP,British Colombia,UnitedHealth Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134378,Flower,12 LPA,Java,HTML,Alberta,UnitedHealth Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134379,Ian,13 LPA,"HTML,CSS",SQL,British Colombia,Destination XL Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134380,Chappel,8 LPA,Java,React JS,Alberta,Destination XL Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134381,Matthew,12 LPA,Python,Angular JS,Alberta,Destination XL Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134382,Hayden,13 LPA,Angular JS,Ruby,Alberta,Destination XL Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134383,Adam,8 LPA,"C, C++",Java,British  Colombia,UnitedHealth Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134386,Gilchrist,9 LPA,"HTML,CSS",SQL,British Colombia,"Healthstat, Inc.",Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134392,Glenn,8 LPA,Node JS,PHP,Alberta,UnitedHealth Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134393,McGrath,6.5 LPA,PHP,Perl,Alberta,Ensign Therapy,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134406,Jason,9 LPA,SQL,CSS,Alberta,Fifth Third Bank,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134408,Gillesspie,10 LPA,React JS,Java,Alberta,Spartanburg Regional Healthcare,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134410,Brett,7.5 LPA,Perl,Angular JS,Alberta,HCA-MidAmerica,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134411,Lee,8 LPA,AWS,CSS,Alberta,HCA-MidAmerica,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134412,Andy,9 LPA,"HTML,CSS",Perl,British Colombia,HCA-MidAmerica,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134413,Bichel,8 LPA,"C, C++",Angular JS,British  Colombia,HCA-MidAmerica,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134414,Michael,9 LPA,AWS,HTML,Alberta,HCA-MidAmerica,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134415,Kasporwichz,8 LPA,"HTML,CSS",SQL,British Colombia,HCA-MidAmerica,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134417,Balwinder,9 LPA,"C, C++",AWS,British  Colombia,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134418,Sandhu,10 LPA,"HTML,CSS",SQL,British Colombia,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134419,Kapil,11 LPA,Perl,Angular JS,Alberta,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134420,Dev,12 LPA,GIT,Angular JS,Alberta,Goodwill of Greater Washington,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134421,Sunil,8 LPA,"HTML,CSS",AWS,British Colombia,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134422,Gavaskar,9 LPA,PHP,CSS,Alberta,Goodwill of Greater Washington,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134423,Kriss,8 LPA,Java,HTML,Alberta,Devereux,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134426,Srikanth,9 LPA,"HTML,CSS",PHP,British Colombia,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134427,Danny,8 LPA,Java,HTML,Alberta,Parallon,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134428,Morrison,9 LPA,"HTML,CSS",SQL,British Colombia,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134429,Martin,8 LPA,"HTML,CSS",Perl,British Colombia,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134430,Crowe,9 LPA,GIT,CSS,Alberta,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134433,Joel,9 LPA,Perl,GIT,Alberta,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134436,Garner,8 LPA,AWS,Azure,Alberta,Parallon,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134437,Gordon,7.5 LPA,AWS,GIT,Alberta,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134438,Grinidge,3 LPA,Docker,Kotlin,Alberta,MGM Resorts International,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134439,Steven,9 LPA,"HTML,CSS",Perl,Peru,MGM Resorts International,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134440,Harmission,9 LPA,GIT,CSS,Peru,MGM Resorts International,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134441,Marcus,8 LPA,Perl,GIT,Colombia,MGM Resorts International,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134442,Terscotick,7.5 LPA,AWS,Azure,Brazil,MGM Resorts International,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134443,Andrew,3 LPA,AWS,GIT,Brazil,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134444,Srtrauss,9 LPA,Docker,Kotlin,Argentina,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134445,Jimmy,9 LPA,Java,React JS,Argentina,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134446,Anderson,5 LPA,Python,Angular JS,Argentina,Fairfield Behavioral Health Services,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134447,Stuart,5 LPA,Angular JS,Ruby,Argentina,Sava Senior Care,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134448,Board,4 LPA,"C, C++",Java,Argentina,BrightKey Inc.,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134449,Chris,5 LPA,"HTML,CSS",Perl,Argentina,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134450,Board,2 LPA,Node JS,PHP,Argentina,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134451,Darren,5 LPA,Perl,SQL,Argentina,Hofmann Services,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134452,Gough,6.5 LPA,SQL,CSS,Argentina,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134453,Monty,3 LPA,React JS,AWS,Argentina,Vista College,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134454,Panesar,3 LPA,Java,Angular JS,Colombia,Convergys,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134455,Chris,2 LPA,Angular JS,CSS,Colombia,DENISON UNIVERSITY,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134456,Woaks,10 LPA,"HTML,CSS",React JS,Colombia,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134457,Steven,15 LPA,"C, C++",AWS,Colombia,"Forward Air, Inc.",Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134458,Gerrad,12 LPA,React JS,HTML,Colombia,West Suburban Nursing and Rehabilitation Center,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134459,Wasim,15 LPA,"HTML,CSS",SQL,Colombia,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134460,Akram,8 LPA,AWS,PHP,Colombia,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134461,Waqr,8 LPA,"HTML,CSS",SQL,Colombia,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134462,Younis,9 LPA,Java,Angular JS,Colombia,Securitas USA,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134463,Saqlain,8.5 LPA,Java,Angular JS,Colombia,Amerigas,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134465,Maustq,7.5 LPA,React JS,Java,Colombia,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134466,Shane,8 LPA,PHP,CSS,Colombia,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134467,Bond,9 LPA,Java,HTML,Alberta,ALERE,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134470,Shane,10 LPA,"HTML,CSS",PHP,British Colombia,ALERE,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134471,Warne,12 LPA,Java,HTML,Alberta,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134472,Paul,13 LPA,"HTML,CSS",SQL,British Colombia,Sava Senior Care,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134473,Strang,8 LPA,Java,React JS,Alberta,Midwest CareCenter,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134474,Shaun,12 LPA,Python,Angular JS,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134475,Pollouck,13 LPA,Angular JS,Ruby,Alberta,ALDI,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134477,Nike,8 LPA,"C, C++",Java,British  Colombia,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134478,Boyje,9 LPA,"HTML,CSS",SQL,British Colombia,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134479,Makhya,8 LPA,Node JS,PHP,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134480,Nitini,6.5 LPA,PHP,Perl,Alberta,Banfield Pet Hospital,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134481,Lungi,9 LPA,SQL,CSS,Alberta,Brookdale,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134482,Ngidi,10 LPA,React JS,Java,Alberta,Express Employment Professionals,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134483,Hamilton,7.5 LPA,Perl,Angular JS,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134484,Masakadza,8 LPA,AWS,CSS,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134485,Tatenda,9 LPA,"HTML,CSS",Perl,British Colombia,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134486,Taibu,8 LPA,"C, C++",Angular JS,British  Colombia,Golden Living Centers,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134487,Heath,9 LPA,AWS,HTML,Alberta,Banfield Pet Hospital,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134488,Streak,8 LPA,"HTML,CSS",SQL,British Colombia,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134489,Henry,9 LPA,"C, C++",AWS,British  Colombia,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134490,Olanga,10 LPA,"HTML,CSS",SQL,British Colombia,Burnett Specialists,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134491,Douglas,11 LPA,Perl,Angular JS,Alberta,ALERE,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134492,Hondo,12 LPA,GIT,Angular JS,Alberta,ALERE,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134493,Morne,8 LPA,"HTML,CSS",AWS,British Colombia,ALDI,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134494,Morkel,9 LPA,PHP,CSS,Alberta,"Food Source Operating, LP",Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134495,Albie,8 LPA,Java,HTML,Alberta,ALERE,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134496,Morkel,9 LPA,"HTML,CSS",PHP,British Colombia,Rasmussen College,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134497,Alvero,8 LPA,Java,HTML,Alberta,Banfield Pet Hospital,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134498,Pertersan,9 LPA,"HTML,CSS",SQL,British Colombia,Kelly Services,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134499,Andrew,8 LPA,"HTML,CSS",Perl,British Colombia,Bayside Search Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134500,Filntoff,9 LPA,GIT,CSS,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134501,Yuvraj,9 LPA,Perl,GIT,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134502,Singh,8 LPA,AWS,Azure,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134503,Harbhajan,7.5 LPA,AWS,GIT,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134504,Singh,3 LPA,Docker,Kotlin,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134505,Amit Kumar,5 LPA,Java,React JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134507,Aniket M,5 LPA,Python,Angular JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134509,Sandeep,4 LPA,Angular JS,Ruby,India,Banfield Pet Hospital,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134510,Sandesh,5 LPA,"C, C++",Java,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134511,Sumant,2 LPA,"HTML,CSS",Perl,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134512,Vijay,5 LPA,Node JS,PHP,India,"The Village for Families & Children, Inc.",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134513,Dilip,6.5 LPA,Perl,SQL,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134516,Suraj,3 LPA,SQL,CSS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134517,Ranga,3 LPA,React JS,AWS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134518,Rajesh,2 LPA,Java,Angular JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134520,Sunil,10 LPA,Angular JS,CSS,India,Pineville Rehabilitation & Living Center,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134521,Ankit,15 LPA,"HTML,CSS",React JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134523,Varun,12 LPA,"C, C++",AWS,India,Charmer Sunbelt Group,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134525,Aditya,15 LPA,React JS,HTML,India,Burpee Garden Products,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134526,Sourav,8 LPA,"HTML,CSS",SQL,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134527,Sachin,8 LPA,AWS,PHP,India,Remington College,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134528,Rahul,9 LPA,"HTML,CSS",SQL,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134529,Laxman,8.5 LPA,Java,Angular JS,India,Burpee Garden Products,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134530,Virender,7.5 LPA,Java,Angular JS,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134531,Mahender,8 LPA,React JS,Java,India,Burpee Garden Products,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134532,Ajit,9 LPA,PHP,CSS,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134534,Zaheer,10 LPA,Java,HTML,India,Examination Management Services,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134535,Balaji,12 LPA,"HTML,CSS",PHP,India,Examination Management Services,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134536,Anil,13 LPA,Java,HTML,India,Examination Management Services,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134537,Javagal,8 LPA,"HTML,CSS",SQL,India,Examination Management Services,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134539,Venktesh,12 LPA,Java,React JS,India,Examination Management Services,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134540,Debashish,13 LPA,Python,Angular JS,India,National Health Care Associates,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134541,Naman,8 LPA,Angular JS,Ruby,India,"Prestige Care, Inc.",Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134542,Romesh,9 LPA,"C, C++",Java,India,"Prestige Care, Inc.",Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134543,Ramesh,8 LPA,"HTML,CSS",SQL,India,"Prestige Care, Inc.",Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134544,Chaminda,6.5 LPA,Node JS,PHP,India,Wyndham Hotel Group,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134545,Marvan,9 LPA,PHP,Perl,India,Wyndham Hotel Group,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134547,Ranatunga,10 LPA,SQL,CSS,India,Olive Garden,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134548,Angelo,7.5 LPA,React JS,Java,India,Mercy Health,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134550,Dilhara,8 LPA,Perl,Angular JS,India,Recover Health,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134551,Tilkaratene,9 LPA,AWS,CSS,India,The Goddard School,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134552,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,The Goddard School,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134553,Muthaiaa,9 LPA,"C, C++",Angular JS,India,Weed Man,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134554,Murlitharan,8 LPA,AWS,HTML,India,HCA-Mountain,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134555,Roshan,9 LPA,"HTML,CSS",SQL,India,HCA-Mountain,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134556,Mahanama,10 LPA,"C, C++",AWS,India,National Recoveries,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134557,Dharamsena,11 LPA,"HTML,CSS",SQL,India,Jo-Ann Fabric and Craft Stores,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134558,Sangakara,12 LPA,Perl,Angular JS,India,Sports Authority,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134559,Jayawardene,8 LPA,GIT,Angular JS,India,Sports Authority,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134560,Mathews,9 LPA,"HTML,CSS",AWS,India,NA,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134561,Chandana,8 LPA,PHP,CSS,India,20/20 Express,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134563,Upul,9 LPA,Java,HTML,India,"Maxim Healthcare Services, Inc",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134564,Tharanga,8 LPA,"HTML,CSS",PHP,India,Dart Container,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134566,Rajverdhan,9 LPA,Java,HTML,India,UPS,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134567,Senanayake,8 LPA,"HTML,CSS",SQL,India,UPS,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134568,Brian,9 LPA,"HTML,CSS",Perl,Peru,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134569,Lara,9 LPA,GIT,CSS,Peru,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134571,Curtely ,8 LPA,Perl,GIT,Colombia,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134572,Ambrose,7.5 LPA,AWS,Azure,Brazil,UPS,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134574,Garry,3 LPA,AWS,GIT,Brazil,Guthrie Healthcare System,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134575,Sobers,9 LPA,Docker,Kotlin,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134576,Ian,9 LPA,Java,React JS,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134577,Bishop,5 LPA,Python,Angular JS,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134578,Chris,5 LPA,Angular JS,Ruby,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134579,Gayel,4 LPA,"C, C++",Java,Argentina,Firestone Complete Auto Care,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134580,Carl,5 LPA,"HTML,CSS",Perl,Argentina,Firestone Complete Auto Care,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134581,Hooper,2 LPA,Node JS,PHP,Argentina,Firestone Complete Auto Care,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134582,Ramnaresh,5 LPA,Perl,SQL,Argentina,Murphy USA,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134583,Sarwan,6.5 LPA,SQL,CSS,Argentina,Murphy USA,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134589,Shivnarein,3 LPA,React JS,AWS,Argentina,HCA-Capital DIvision,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134590,Chanderpaul,3 LPA,Java,Angular JS,Colombia,HCA-Capital DIvision,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134591,Dwayen,2 LPA,Angular JS,CSS,Colombia,HCA-Capital DIvision,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134593,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,KeyBank,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134594,Darren,15 LPA,"C, C++",AWS,Colombia,KeyBank,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134595,Bravo,12 LPA,React JS,HTML,Colombia,KeyBank,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134597,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,KeyBank,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134598,Pollard,8 LPA,AWS,PHP,Colombia,KeyBank,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134599,Steve,8 LPA,"HTML,CSS",SQL,Colombia,HCA Physician Services,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136396,Waugh,9 LPA,Java,Angular JS,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136397,Mark,8.5 LPA,Java,Angular JS,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136398,Waugh,7.5 LPA,React JS,Java,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136399,Grant,8 LPA,PHP,CSS,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136400,Jones,9 LPA,Java,HTML,Alberta,Claremont University Consortium,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136401,Andy,10 LPA,"HTML,CSS",PHP,British Colombia,Belmont Village Westwood,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136402,Flower,12 LPA,Java,HTML,Alberta,Belmont Village Westwood,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136403,Ian,13 LPA,"HTML,CSS",SQL,British Colombia,Belmont Village Westwood,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136404,Chappel,8 LPA,Java,React JS,Alberta,Decton Group of companies,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136405,Matthew,12 LPA,Python,Angular JS,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136406,Hayden,13 LPA,Angular JS,Ruby,Alberta,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136407,Adam,8 LPA,"C, C++",Java,British  Colombia,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136408,Gilchrist,9 LPA,"HTML,CSS",SQL,British Colombia,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136409,Glenn,8 LPA,Node JS,PHP,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136410,McGrath,6.5 LPA,PHP,Perl,Alberta,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136411,Jason,9 LPA,SQL,CSS,Alberta,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136412,Gillesspie,10 LPA,React JS,Java,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136413,Brett,7.5 LPA,Perl,Angular JS,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136414,Lee,8 LPA,AWS,CSS,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136415,Andy,9 LPA,"HTML,CSS",Perl,British Colombia,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136416,Bichel,8 LPA,"C, C++",Angular JS,British  Colombia,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136417,Michael,9 LPA,AWS,HTML,Alberta,Murphy USA,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136419,Kasporwichz,8 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136420,Balwinder,9 LPA,"C, C++",AWS,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136421,Sandhu,10 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136422,Kapil,11 LPA,Perl,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136423,Dev,12 LPA,GIT,Angular JS,Alberta,Reddaway,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136424,Sunil,8 LPA,"HTML,CSS",AWS,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136425,Gavaskar,9 LPA,PHP,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136426,Kriss,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136427,Srikanth,9 LPA,"HTML,CSS",PHP,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136428,Danny,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136429,Morrison,9 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136430,Martin,8 LPA,"HTML,CSS",Perl,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136431,Crowe,9 LPA,GIT,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136432,Joel,9 LPA,Perl,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136433,Garner,8 LPA,AWS,Azure,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136434,Gordon,7.5 LPA,AWS,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136435,Grinidge,3 LPA,Docker,Kotlin,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136436,Steven,9 LPA,"HTML,CSS",Perl,Peru,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136437,Harmission,9 LPA,GIT,CSS,Peru,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136438,Marcus,8 LPA,Perl,GIT,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136439,Terscotick,7.5 LPA,AWS,Azure,Brazil,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136440,Andrew,3 LPA,AWS,GIT,Brazil,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136441,Srtrauss,9 LPA,Docker,Kotlin,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136442,Jimmy,9 LPA,Java,React JS,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136443,Anderson,5 LPA,Python,Angular JS,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136444,Stuart,5 LPA,Angular JS,Ruby,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136445,Board,4 LPA,"C, C++",Java,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136446,Chris,5 LPA,"HTML,CSS",Perl,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136447,Board,2 LPA,Node JS,PHP,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136448,Darren,5 LPA,Perl,SQL,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136449,Gough,6.5 LPA,SQL,CSS,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136450,Monty,3 LPA,React JS,AWS,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136451,Panesar,3 LPA,Java,Angular JS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136452,Chris,2 LPA,Angular JS,CSS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136453,Woaks,10 LPA,"HTML,CSS",React JS,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136454,Steven,15 LPA,"C, C++",AWS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136455,Gerrad,12 LPA,React JS,HTML,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136456,Wasim,15 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136457,Akram,8 LPA,AWS,PHP,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136458,Waqr,8 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136459,Younis,9 LPA,Java,Angular JS,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136460,Saqlain,8.5 LPA,Java,Angular JS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136461,Maustq,7.5 LPA,React JS,Java,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136462,Shane,8 LPA,PHP,CSS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136463,Bond,9 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136464,Shane,10 LPA,"HTML,CSS",PHP,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136465,Warne,12 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136466,Paul,13 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136468,Strang,8 LPA,Java,React JS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136469,Shaun,12 LPA,Python,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136470,Pollouck,13 LPA,Angular JS,Ruby,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136471,Nike,8 LPA,"C, C++",Java,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136472,Boyje,9 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136473,Makhya,8 LPA,Node JS,PHP,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136474,Nitini,6.5 LPA,PHP,Perl,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136475,Lungi,9 LPA,SQL,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136476,Ngidi,10 LPA,React JS,Java,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136477,Hamilton,7.5 LPA,Perl,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136478,Masakadza,8 LPA,AWS,CSS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136479,Tatenda,9 LPA,"HTML,CSS",Perl,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136480,Taibu,8 LPA,"C, C++",Angular JS,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136481,Heath,9 LPA,AWS,HTML,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136482,Streak,8 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136483,Henry,9 LPA,"C, C++",AWS,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136484,Olanga,10 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136485,Douglas,11 LPA,Perl,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136486,Hondo,12 LPA,GIT,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136487,Morne,8 LPA,"HTML,CSS",AWS,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136488,Morkel,9 LPA,PHP,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136489,Albie,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136490,Morkel,9 LPA,"HTML,CSS",PHP,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136491,Alvero,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136492,Pertersan,9 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136493,Andrew,8 LPA,"HTML,CSS",Perl,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136494,Filntoff,9 LPA,GIT,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136495,Yuvraj,9 LPA,Perl,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136496,Singh,8 LPA,AWS,Azure,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136497,Harbhajan,7.5 LPA,AWS,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136498,Singh,3 LPA,Docker,Kotlin,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136499,Amit Kumar,5 LPA,Java,React JS,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136500,Aniket M,5 LPA,Python,Angular JS,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136501,Sandeep,4 LPA,Angular JS,Ruby,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136502,Sandesh,5 LPA,"C, C++",Java,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136503,Sumant,2 LPA,"HTML,CSS",Perl,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136504,Vijay,5 LPA,Node JS,PHP,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136505,Dilip,6.5 LPA,Perl,SQL,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136506,Suraj,3 LPA,SQL,CSS,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136507,Ranga,3 LPA,React JS,AWS,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136508,Rajesh,2 LPA,Java,Angular JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136509,Sunil,10 LPA,Angular JS,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136510,Ankit,15 LPA,"HTML,CSS",React JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136511,Varun,12 LPA,"C, C++",AWS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136512,Aditya,15 LPA,React JS,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136513,Sourav,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136514,Sachin,8 LPA,AWS,PHP,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136515,Rahul,9 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136516,Laxman,8.5 LPA,Java,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136517,Virender,7.5 LPA,Java,Angular JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136518,Mahender,8 LPA,React JS,Java,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136519,Ajit,9 LPA,PHP,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136520,Zaheer,10 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136521,Balaji,12 LPA,"HTML,CSS",PHP,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136522,Anil,13 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136523,Javagal,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136524,Venktesh,12 LPA,Java,React JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136525,Debashish,13 LPA,Python,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136526,Naman,8 LPA,Angular JS,Ruby,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136527,Romesh,9 LPA,"C, C++",Java,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136528,Ramesh,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136529,Chaminda,6.5 LPA,Node JS,PHP,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136530,Marvan,9 LPA,PHP,Perl,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136531,Ranatunga,10 LPA,SQL,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136532,Angelo,7.5 LPA,React JS,Java,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136533,Dilhara,8 LPA,Perl,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136534,Tilkaratene,9 LPA,AWS,CSS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136535,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136536,Muthaiaa,9 LPA,"C, C++",Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136537,Murlitharan,8 LPA,AWS,HTML,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136538,Roshan,9 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136539,Mahanama,10 LPA,"C, C++",AWS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136540,Dharamsena,11 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136541,Sangakara,12 LPA,Perl,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136542,Jayawardene,8 LPA,GIT,Angular JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136543,Mathews,9 LPA,"HTML,CSS",AWS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136544,Chandana,8 LPA,PHP,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136545,Upul,9 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136546,Tharanga,8 LPA,"HTML,CSS",PHP,India,OfficeTeam,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136547,Rajverdhan,9 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136548,Senanayake,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136549,Brian,9 LPA,"HTML,CSS",Perl,Peru,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136550,Lara,9 LPA,GIT,CSS,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136551,Curtely ,8 LPA,Perl,GIT,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136552,Ambrose,7.5 LPA,AWS,Azure,Brazil,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136553,Garry,3 LPA,AWS,GIT,Brazil,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136554,Sobers,9 LPA,Docker,Kotlin,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136555,Ian,9 LPA,Java,React JS,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136556,Bishop,5 LPA,Python,Angular JS,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136557,Chris,5 LPA,Angular JS,Ruby,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136558,Gayel,4 LPA,"C, C++",Java,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136559,Carl,5 LPA,"HTML,CSS",Perl,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136560,Hooper,2 LPA,Node JS,PHP,Argentina,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136561,Ramnaresh,5 LPA,Perl,SQL,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136562,Sarwan,6.5 LPA,SQL,CSS,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136563,Shivnarein,3 LPA,React JS,AWS,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136564,Chanderpaul,3 LPA,Java,Angular JS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136565,Dwayen,2 LPA,Angular JS,CSS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136566,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136567,Darren,15 LPA,"C, C++",AWS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136568,Bravo,12 LPA,React JS,HTML,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136569,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136570,Pollard,8 LPA,AWS,PHP,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136571,Steve,8 LPA,"HTML,CSS",SQL,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136572,Waugh,9 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136573,Mark,8.5 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136574,Waugh,7.5 LPA,React JS,Java,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136575,Grant,8 LPA,PHP,CSS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136576,Jones,9 LPA,Java,HTML,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136577,Andy,10 LPA,"HTML,CSS",PHP,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136578,Flower,12 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136579,Ian,13 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136580,Chappel,8 LPA,Java,React JS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136581,Matthew,12 LPA,Python,Angular JS,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136582,Hayden,13 LPA,Angular JS,Ruby,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136583,Adam,8 LPA,"C, C++",Java,British  Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136584,Gilchrist,9 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136585,Glenn,8 LPA,Node JS,PHP,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136586,McGrath,6.5 LPA,PHP,Perl,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136587,Jason,9 LPA,SQL,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136588,Gillesspie,10 LPA,React JS,Java,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136589,Brett,7.5 LPA,Perl,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136590,Lee,8 LPA,AWS,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136591,Andy,9 LPA,"HTML,CSS",Perl,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136592,Bichel,8 LPA,"C, C++",Angular JS,British  Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136593,Michael,9 LPA,AWS,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136594,Kasporwichz,8 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136595,Balwinder,9 LPA,"C, C++",AWS,British  Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136596,Sandhu,10 LPA,"HTML,CSS",SQL,British Colombia,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136597,Kapil,11 LPA,Perl,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136599,Dev,12 LPA,GIT,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136600,Sunil,8 LPA,"HTML,CSS",AWS,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136601,Gavaskar,9 LPA,PHP,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136602,Kriss,8 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136603,Srikanth,9 LPA,"HTML,CSS",PHP,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136604,Danny,8 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136605,Morrison,9 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136606,Martin,8 LPA,"HTML,CSS",Perl,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136607,Crowe,9 LPA,GIT,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136608,Joel,9 LPA,Perl,GIT,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136609,Garner,8 LPA,AWS,Azure,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136610,Gordon,7.5 LPA,AWS,GIT,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136611,Grinidge,3 LPA,Docker,Kotlin,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136612,Steven,9 LPA,"HTML,CSS",Perl,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136613,Harmission,9 LPA,GIT,CSS,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136614,Marcus,8 LPA,Perl,GIT,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136615,Terscotick,7.5 LPA,AWS,Azure,Brazil,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136616,Andrew,3 LPA,AWS,GIT,Brazil,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136617,Srtrauss,9 LPA,Docker,Kotlin,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136618,Jimmy,9 LPA,Java,React JS,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136619,Anderson,5 LPA,Python,Angular JS,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136620,Stuart,5 LPA,Angular JS,Ruby,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136621,Board,4 LPA,"C, C++",Java,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136622,Chris,5 LPA,"HTML,CSS",Perl,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136623,Board,2 LPA,Node JS,PHP,Argentina,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136624,Darren,5 LPA,Perl,SQL,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136625,Gough,6.5 LPA,SQL,CSS,Argentina,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136626,Monty,3 LPA,React JS,AWS,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136627,Panesar,3 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136628,Chris,2 LPA,Angular JS,CSS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136629,Woaks,10 LPA,"HTML,CSS",React JS,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136630,Steven,15 LPA,"C, C++",AWS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136632,Gerrad,12 LPA,React JS,HTML,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136633,Wasim,15 LPA,"HTML,CSS",SQL,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136634,Akram,8 LPA,AWS,PHP,Colombia,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136635,Waqr,8 LPA,"HTML,CSS",SQL,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136636,Younis,9 LPA,Java,Angular JS,Colombia,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136637,Saqlain,8.5 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136638,Maustq,7.5 LPA,React JS,Java,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136639,Shane,8 LPA,PHP,CSS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136640,Bond,9 LPA,Java,HTML,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136641,Shane,10 LPA,"HTML,CSS",PHP,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136642,Warne,12 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136643,Paul,13 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136644,Strang,8 LPA,Java,React JS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136645,Shaun,12 LPA,Python,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136646,Pollouck,13 LPA,Angular JS,Ruby,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136647,Nike,8 LPA,"C, C++",Java,British  Colombia,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136648,Boyje,9 LPA,"HTML,CSS",SQL,British Colombia,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136649,Makhya,8 LPA,Node JS,PHP,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136650,Nitini,6.5 LPA,PHP,Perl,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136651,Lungi,9 LPA,SQL,CSS,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136652,Ngidi,10 LPA,React JS,Java,Alberta,Permian Premier,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136653,Hamilton,7.5 LPA,Perl,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136654,Masakadza,8 LPA,AWS,CSS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136655,Tatenda,9 LPA,"HTML,CSS",Perl,British Colombia,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136656,Taibu,8 LPA,"C, C++",Angular JS,British  Colombia,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136657,Heath,9 LPA,AWS,HTML,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136658,Streak,8 LPA,"HTML,CSS",SQL,British Colombia,Music and Arts,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136659,Henry,9 LPA,"C, C++",AWS,British  Colombia,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136660,Olanga,10 LPA,"HTML,CSS",SQL,British Colombia,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136661,Douglas,11 LPA,Perl,Angular JS,Alberta,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136662,Hondo,12 LPA,GIT,Angular JS,Alberta,Music and Arts,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136663,Morne,8 LPA,"HTML,CSS",AWS,British Colombia,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136664,Morkel,9 LPA,PHP,CSS,Alberta,Music and Arts,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136665,Albie,8 LPA,Java,HTML,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136666,Morkel,9 LPA,"HTML,CSS",PHP,British Colombia,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136667,Alvero,8 LPA,Java,HTML,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136668,Pertersan,9 LPA,"HTML,CSS",SQL,British Colombia,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136669,Andrew,8 LPA,"HTML,CSS",Perl,British Colombia,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136670,Filntoff,9 LPA,GIT,CSS,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136671,Yuvraj,9 LPA,Perl,GIT,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136672,Singh,8 LPA,AWS,Azure,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136673,Harbhajan,7.5 LPA,AWS,GIT,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136674,Singh,3 LPA,Docker,Kotlin,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136675,Amit Kumar,5 LPA,Java,React JS,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136676,Aniket M,5 LPA,Python,Angular JS,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136677,Sandeep,4 LPA,Angular JS,Ruby,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136678,Sandesh,5 LPA,"C, C++",Java,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136679,Sumant,2 LPA,"HTML,CSS",Perl,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136680,Vijay,5 LPA,Node JS,PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136681,Dilip,6.5 LPA,Perl,SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136682,Suraj,3 LPA,SQL,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136683,Ranga,3 LPA,React JS,AWS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136684,Rajesh,2 LPA,Java,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136685,Sunil,10 LPA,Angular JS,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136686,Ankit,15 LPA,"HTML,CSS",React JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136689,Varun,12 LPA,"C, C++",AWS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136690,Aditya,15 LPA,React JS,HTML,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136691,Sourav,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136692,Sachin,8 LPA,AWS,PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136693,Rahul,9 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136694,Laxman,8.5 LPA,Java,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136695,Virender,7.5 LPA,Java,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136696,Mahender,8 LPA,React JS,Java,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136697,Ajit,9 LPA,PHP,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136698,Zaheer,10 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136699,Balaji,12 LPA,"HTML,CSS",PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136700,Anil,13 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136701,Javagal,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136702,Venktesh,12 LPA,Java,React JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136703,Debashish,13 LPA,Python,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136704,Naman,8 LPA,Angular JS,Ruby,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136705,Romesh,9 LPA,"C, C++",Java,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136706,Ramesh,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136707,Chaminda,6.5 LPA,Node JS,PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136708,Marvan,9 LPA,PHP,Perl,India,OfficeTeam,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136709,Ranatunga,10 LPA,SQL,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136710,Angelo,7.5 LPA,React JS,Java,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136711,Dilhara,8 LPA,Perl,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136712,Tilkaratene,9 LPA,AWS,CSS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136713,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136714,Muthaiaa,9 LPA,"C, C++",Angular JS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136715,Murlitharan,8 LPA,AWS,HTML,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136716,Roshan,9 LPA,"HTML,CSS",SQL,India,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136717,Mahanama,10 LPA,"C, C++",AWS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136718,Dharamsena,11 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136719,Sangakara,12 LPA,Perl,Angular JS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136720,Jayawardene,8 LPA,GIT,Angular JS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136721,Mathews,9 LPA,"HTML,CSS",AWS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136722,Chandana,8 LPA,PHP,CSS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136723,Upul,9 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136724,Tharanga,8 LPA,"HTML,CSS",PHP,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136725,Rajverdhan,9 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136726,Senanayake,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136727,Brian,9 LPA,"HTML,CSS",Perl,Peru,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136728,Lara,9 LPA,GIT,CSS,Peru,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136729,Curtely ,8 LPA,Perl,GIT,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136730,Ambrose,7.5 LPA,AWS,Azure,Brazil,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136731,Garry,3 LPA,AWS,GIT,Brazil,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136732,Sobers,9 LPA,Docker,Kotlin,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136733,Ian,9 LPA,Java,React JS,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136734,Bishop,5 LPA,Python,Angular JS,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136736,Chris,5 LPA,Angular JS,Ruby,Argentina,Kelly Services,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136737,Gayel,4 LPA,"C, C++",Java,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136738,Carl,5 LPA,"HTML,CSS",Perl,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136739,Hooper,2 LPA,Node JS,PHP,Argentina,Navy Federal Credit Union,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136740,Ramnaresh,5 LPA,Perl,SQL,Argentina,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136741,Sarwan,6.5 LPA,SQL,CSS,Argentina,FL Cancer Specialists,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136742,Shivnarein,3 LPA,React JS,AWS,Argentina,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136744,Chanderpaul,3 LPA,Java,Angular JS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136745,Dwayen,2 LPA,Angular JS,CSS,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136746,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136747,Darren,15 LPA,"C, C++",AWS,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136748,Bravo,12 LPA,React JS,HTML,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136749,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136750,Pollard,8 LPA,AWS,PHP,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136751,Steve,8 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136752,Waugh,9 LPA,Java,Angular JS,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136753,Mark,8.5 LPA,Java,Angular JS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136754,Waugh,7.5 LPA,React JS,Java,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136755,Grant,8 LPA,PHP,CSS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+111,Amit Kumar,5 LPA,Java,React JS,India,Tacolicious,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+113,Aniket M,5 LPA,Python,Angular JS,India,Claude Lane,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+117,Sandeep,4 LPA,Angular JS,Ruby,India,Machka Restaurants Corp.,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+121,Sandesh,5 LPA,"C, C++",Java,India,Teriyaki House,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+127,Sumant,2 LPA,"HTML,CSS",Perl,India,Rosa Mexicano - Sunset,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+129,Vijay,5 LPA,Node JS,PHP,India,Mind of Beauty Day Spa,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+131,Dilip,6.5 LPA,Perl,SQL,India,Roy's Woodland Hills,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+133,Suraj,3 LPA,SQL,CSS,India,KoJa Kitchen,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134273,Ranga,3 LPA,React JS,AWS,India,King's Food Markets,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134274,Rajesh,2 LPA,Java,Angular JS,India,ALDI,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134275,Sunil,10 LPA,Angular JS,CSS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134276,Ankit,15 LPA,"HTML,CSS",React JS,India,Kroger - Louisville,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134277,Varun,12 LPA,"C, C++",AWS,India,Coca-Cola Bottling Company Consolidated,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134278,Aditya,15 LPA,React JS,HTML,India,"CATCH, Inc.",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134279,Sourav,8 LPA,"HTML,CSS",SQL,India,Kroger - Louisville,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134280,Sachin,8 LPA,AWS,PHP,India,LongHorn Steakhouse,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134281,Rahul,9 LPA,"HTML,CSS",SQL,India,New York Community Bank,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134282,Laxman,8.5 LPA,Java,Angular JS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134283,Virender,7.5 LPA,Java,Angular JS,India,Holiday Inn Express- Independently Owned & Operated,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134284,Mahender,8 LPA,React JS,Java,India,Kroger - Louisville,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134285,Ajit,9 LPA,PHP,CSS,India,ALDI,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134286,Zaheer,10 LPA,Java,HTML,India,ABBA Medical Transportation,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134287,Balaji,12 LPA,"HTML,CSS",PHP,India,State Street Bank,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134288,Anil,13 LPA,Java,HTML,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134291,Javagal,8 LPA,"HTML,CSS",SQL,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134292,Venktesh,12 LPA,Java,React JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134293,Debashish,13 LPA,Python,Angular JS,India,"Peanut Gallery -- Galleria location, Dallas, TX",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134295,Naman,8 LPA,Angular JS,Ruby,India,MICHAEL HILL,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134296,Romesh,9 LPA,"C, C++",Java,India,MICHAEL HILL,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134297,Ramesh,8 LPA,"HTML,CSS",SQL,India,MICHAEL HILL,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134298,Chaminda,6.5 LPA,Node JS,PHP,India,MICHAEL HILL,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134300,Marvan,9 LPA,PHP,Perl,India,Stanley Staffing,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134301,Ranatunga,10 LPA,SQL,CSS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134302,Angelo,7.5 LPA,React JS,Java,India,"AAM, LLC.",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134303,Dilhara,8 LPA,Perl,Angular JS,India,HCA-Tristar Health,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134304,Tilkaratene,9 LPA,AWS,CSS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134305,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,ALDI,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134306,Muthaiaa,9 LPA,"C, C++",Angular JS,India,Corizon,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134307,Murlitharan,8 LPA,AWS,HTML,India,Kelly IT Resources,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134308,Roshan,9 LPA,"HTML,CSS",SQL,India,Volunteers of America Greater Ohio,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134309,Mahanama,10 LPA,"C, C++",AWS,India,South Davis Community Hospital,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134310,Dharamsena,11 LPA,"HTML,CSS",SQL,India,Community Health Charities,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134312,Sangakara,12 LPA,Perl,Angular JS,India,"United Recovery Systems, LP",Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134313,Jayawardene,8 LPA,GIT,Angular JS,India,Just 4 Kids Child Care Center,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134314,Mathews,9 LPA,"HTML,CSS",AWS,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134315,Chandana,8 LPA,PHP,CSS,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134316,Upul,9 LPA,Java,HTML,India,Global Technology Associates,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134317,Tharanga,8 LPA,"HTML,CSS",PHP,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134318,Rajverdhan,9 LPA,Java,HTML,India,Coca-Cola Bottling Company Consolidated,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134320,Senanayake,8 LPA,"HTML,CSS",SQL,India,Jackson North Medical center,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134321,Brian,9 LPA,"HTML,CSS",Perl,Peru,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134322,Lara,9 LPA,GIT,CSS,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134323,Curtely ,8 LPA,Perl,GIT,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134324,Ambrose,7.5 LPA,AWS,Azure,Brazil,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134327,Garry,3 LPA,AWS,GIT,Brazil,American Golf Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134328,Sobers,9 LPA,Docker,Kotlin,Argentina,American Golf Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134332,Ian,9 LPA,Java,React JS,Argentina,"United Natural Foods, Inc.",Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134333,Bishop,5 LPA,Python,Angular JS,Argentina,BK GLOBAL,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134334,Chris,5 LPA,Angular JS,Ruby,Argentina,Kirby Risk Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134335,Gayel,4 LPA,"C, C++",Java,Argentina,Main Line Health System,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134340,Carl,5 LPA,"HTML,CSS",Perl,Argentina,University Health System,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134343,Hooper,2 LPA,Node JS,PHP,Argentina,HCA-North Texas Division Inc.,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134344,Ramnaresh,5 LPA,Perl,SQL,Argentina,DST,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134345,Sarwan,6.5 LPA,SQL,CSS,Argentina,Service Corporation International,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134346,Shivnarein,3 LPA,React JS,AWS,Argentina,Lucky Eagle Casino,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134348,Chanderpaul,3 LPA,Java,Angular JS,Colombia,RGIS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134350,Dwayen,2 LPA,Angular JS,CSS,Colombia,RGIS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134354,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134355,Darren,15 LPA,"C, C++",AWS,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134356,Bravo,12 LPA,React JS,HTML,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134357,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,The Evangelical Lutheran Good Samaritan Society,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134358,Pollard,8 LPA,AWS,PHP,Colombia,Aaron's Sales and Lease,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134360,Steve,8 LPA,"HTML,CSS",SQL,Colombia,SSM Health Care Corporation,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134369,Waugh,9 LPA,Java,Angular JS,Colombia,Brightview Senior Living,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134370,Mark,8.5 LPA,Java,Angular JS,Colombia,UnitedHealth Group,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134373,Waugh,7.5 LPA,React JS,Java,Colombia,UnitedHealth Group,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134375,Grant,8 LPA,PHP,CSS,Colombia,UnitedHealth Group,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134376,Jones,9 LPA,Java,HTML,Alberta,UnitedHealth Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134377,Andy,10 LPA,"HTML,CSS",PHP,British Colombia,UnitedHealth Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134378,Flower,12 LPA,Java,HTML,Alberta,UnitedHealth Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134379,Ian,13 LPA,"HTML,CSS",SQL,British Colombia,Destination XL Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134380,Chappel,8 LPA,Java,React JS,Alberta,Destination XL Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134381,Matthew,12 LPA,Python,Angular JS,Alberta,Destination XL Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134382,Hayden,13 LPA,Angular JS,Ruby,Alberta,Destination XL Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134383,Adam,8 LPA,"C, C++",Java,British  Colombia,UnitedHealth Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134386,Gilchrist,9 LPA,"HTML,CSS",SQL,British Colombia,"Healthstat, Inc.",Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134392,Glenn,8 LPA,Node JS,PHP,Alberta,UnitedHealth Group,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134393,McGrath,6.5 LPA,PHP,Perl,Alberta,Ensign Therapy,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134406,Jason,9 LPA,SQL,CSS,Alberta,Fifth Third Bank,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134408,Gillesspie,10 LPA,React JS,Java,Alberta,Spartanburg Regional Healthcare,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134410,Brett,7.5 LPA,Perl,Angular JS,Alberta,HCA-MidAmerica,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134411,Lee,8 LPA,AWS,CSS,Alberta,HCA-MidAmerica,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134412,Andy,9 LPA,"HTML,CSS",Perl,British Colombia,HCA-MidAmerica,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134413,Bichel,8 LPA,"C, C++",Angular JS,British  Colombia,HCA-MidAmerica,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134414,Michael,9 LPA,AWS,HTML,Alberta,HCA-MidAmerica,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134415,Kasporwichz,8 LPA,"HTML,CSS",SQL,British Colombia,HCA-MidAmerica,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134417,Balwinder,9 LPA,"C, C++",AWS,British  Colombia,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134418,Sandhu,10 LPA,"HTML,CSS",SQL,British Colombia,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134419,Kapil,11 LPA,Perl,Angular JS,Alberta,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134420,Dev,12 LPA,GIT,Angular JS,Alberta,Goodwill of Greater Washington,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134421,Sunil,8 LPA,"HTML,CSS",AWS,British Colombia,Goodwill of Greater Washington,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134422,Gavaskar,9 LPA,PHP,CSS,Alberta,Goodwill of Greater Washington,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134423,Kriss,8 LPA,Java,HTML,Alberta,Devereux,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134426,Srikanth,9 LPA,"HTML,CSS",PHP,British Colombia,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134427,Danny,8 LPA,Java,HTML,Alberta,Parallon,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134428,Morrison,9 LPA,"HTML,CSS",SQL,British Colombia,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134429,Martin,8 LPA,"HTML,CSS",Perl,British Colombia,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134430,Crowe,9 LPA,GIT,CSS,Alberta,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134433,Joel,9 LPA,Perl,GIT,Alberta,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134436,Garner,8 LPA,AWS,Azure,Alberta,Parallon,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134437,Gordon,7.5 LPA,AWS,GIT,Alberta,Parallon,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134438,Grinidge,3 LPA,Docker,Kotlin,Alberta,MGM Resorts International,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134439,Steven,9 LPA,"HTML,CSS",Perl,Peru,MGM Resorts International,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134440,Harmission,9 LPA,GIT,CSS,Peru,MGM Resorts International,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134441,Marcus,8 LPA,Perl,GIT,Colombia,MGM Resorts International,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134442,Terscotick,7.5 LPA,AWS,Azure,Brazil,MGM Resorts International,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134443,Andrew,3 LPA,AWS,GIT,Brazil,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134444,Srtrauss,9 LPA,Docker,Kotlin,Argentina,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134445,Jimmy,9 LPA,Java,React JS,Argentina,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134446,Anderson,5 LPA,Python,Angular JS,Argentina,Fairfield Behavioral Health Services,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134447,Stuart,5 LPA,Angular JS,Ruby,Argentina,Sava Senior Care,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134448,Board,4 LPA,"C, C++",Java,Argentina,BrightKey Inc.,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134449,Chris,5 LPA,"HTML,CSS",Perl,Argentina,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134450,Board,2 LPA,Node JS,PHP,Argentina,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134451,Darren,5 LPA,Perl,SQL,Argentina,Hofmann Services,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134452,Gough,6.5 LPA,SQL,CSS,Argentina,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134453,Monty,3 LPA,React JS,AWS,Argentina,Vista College,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134454,Panesar,3 LPA,Java,Angular JS,Colombia,Convergys,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134455,Chris,2 LPA,Angular JS,CSS,Colombia,DENISON UNIVERSITY,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134456,Woaks,10 LPA,"HTML,CSS",React JS,Colombia,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134457,Steven,15 LPA,"C, C++",AWS,Colombia,"Forward Air, Inc.",Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134458,Gerrad,12 LPA,React JS,HTML,Colombia,West Suburban Nursing and Rehabilitation Center,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134459,Wasim,15 LPA,"HTML,CSS",SQL,Colombia,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134460,Akram,8 LPA,AWS,PHP,Colombia,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134461,Waqr,8 LPA,"HTML,CSS",SQL,Colombia,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134462,Younis,9 LPA,Java,Angular JS,Colombia,Securitas USA,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134463,Saqlain,8.5 LPA,Java,Angular JS,Colombia,Amerigas,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134465,Maustq,7.5 LPA,React JS,Java,Colombia,Macy's,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134466,Shane,8 LPA,PHP,CSS,Colombia,Macy's,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134467,Bond,9 LPA,Java,HTML,Alberta,ALERE,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134470,Shane,10 LPA,"HTML,CSS",PHP,British Colombia,ALERE,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134471,Warne,12 LPA,Java,HTML,Alberta,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134472,Paul,13 LPA,"HTML,CSS",SQL,British Colombia,Sava Senior Care,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134473,Strang,8 LPA,Java,React JS,Alberta,Midwest CareCenter,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134474,Shaun,12 LPA,Python,Angular JS,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134475,Pollouck,13 LPA,Angular JS,Ruby,Alberta,ALDI,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134477,Nike,8 LPA,"C, C++",Java,British  Colombia,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134478,Boyje,9 LPA,"HTML,CSS",SQL,British Colombia,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134479,Makhya,8 LPA,Node JS,PHP,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134480,Nitini,6.5 LPA,PHP,Perl,Alberta,Banfield Pet Hospital,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134481,Lungi,9 LPA,SQL,CSS,Alberta,Brookdale,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134482,Ngidi,10 LPA,React JS,Java,Alberta,Express Employment Professionals,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134483,Hamilton,7.5 LPA,Perl,Angular JS,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134484,Masakadza,8 LPA,AWS,CSS,Alberta,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134485,Tatenda,9 LPA,"HTML,CSS",Perl,British Colombia,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134486,Taibu,8 LPA,"C, C++",Angular JS,British  Colombia,Golden Living Centers,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134487,Heath,9 LPA,AWS,HTML,Alberta,Banfield Pet Hospital,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134488,Streak,8 LPA,"HTML,CSS",SQL,British Colombia,Macy's,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134489,Henry,9 LPA,"C, C++",AWS,British  Colombia,Macy's,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134490,Olanga,10 LPA,"HTML,CSS",SQL,British Colombia,Burnett Specialists,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134491,Douglas,11 LPA,Perl,Angular JS,Alberta,ALERE,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134492,Hondo,12 LPA,GIT,Angular JS,Alberta,ALERE,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134493,Morne,8 LPA,"HTML,CSS",AWS,British Colombia,ALDI,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134494,Morkel,9 LPA,PHP,CSS,Alberta,"Food Source Operating, LP",Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134495,Albie,8 LPA,Java,HTML,Alberta,ALERE,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134496,Morkel,9 LPA,"HTML,CSS",PHP,British Colombia,Rasmussen College,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134497,Alvero,8 LPA,Java,HTML,Alberta,Banfield Pet Hospital,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134498,Pertersan,9 LPA,"HTML,CSS",SQL,British Colombia,Kelly Services,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134499,Andrew,8 LPA,"HTML,CSS",Perl,British Colombia,Bayside Search Group,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134500,Filntoff,9 LPA,GIT,CSS,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134501,Yuvraj,9 LPA,Perl,GIT,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134502,Singh,8 LPA,AWS,Azure,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134503,Harbhajan,7.5 LPA,AWS,GIT,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134504,Singh,3 LPA,Docker,Kotlin,Alberta,American Family Insurance - Agency Support,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134505,Amit Kumar,5 LPA,Java,React JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134507,Aniket M,5 LPA,Python,Angular JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134509,Sandeep,4 LPA,Angular JS,Ruby,India,Banfield Pet Hospital,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134510,Sandesh,5 LPA,"C, C++",Java,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134511,Sumant,2 LPA,"HTML,CSS",Perl,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134512,Vijay,5 LPA,Node JS,PHP,India,"The Village for Families & Children, Inc.",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134513,Dilip,6.5 LPA,Perl,SQL,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134516,Suraj,3 LPA,SQL,CSS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134517,Ranga,3 LPA,React JS,AWS,India,Macy's,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134518,Rajesh,2 LPA,Java,Angular JS,India,Macy's,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134520,Sunil,10 LPA,Angular JS,CSS,India,Pineville Rehabilitation & Living Center,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134521,Ankit,15 LPA,"HTML,CSS",React JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134523,Varun,12 LPA,"C, C++",AWS,India,Charmer Sunbelt Group,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134525,Aditya,15 LPA,React JS,HTML,India,Burpee Garden Products,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134526,Sourav,8 LPA,"HTML,CSS",SQL,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134527,Sachin,8 LPA,AWS,PHP,India,Remington College,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134528,Rahul,9 LPA,"HTML,CSS",SQL,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134529,Laxman,8.5 LPA,Java,Angular JS,India,Burpee Garden Products,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134530,Virender,7.5 LPA,Java,Angular JS,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134531,Mahender,8 LPA,React JS,Java,India,Burpee Garden Products,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134532,Ajit,9 LPA,PHP,CSS,India,Burpee Garden Products,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134534,Zaheer,10 LPA,Java,HTML,India,Examination Management Services,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134535,Balaji,12 LPA,"HTML,CSS",PHP,India,Examination Management Services,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134536,Anil,13 LPA,Java,HTML,India,Examination Management Services,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134537,Javagal,8 LPA,"HTML,CSS",SQL,India,Examination Management Services,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134539,Venktesh,12 LPA,Java,React JS,India,Examination Management Services,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134540,Debashish,13 LPA,Python,Angular JS,India,National Health Care Associates,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134541,Naman,8 LPA,Angular JS,Ruby,India,"Prestige Care, Inc.",Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134542,Romesh,9 LPA,"C, C++",Java,India,"Prestige Care, Inc.",Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134543,Ramesh,8 LPA,"HTML,CSS",SQL,India,"Prestige Care, Inc.",Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134544,Chaminda,6.5 LPA,Node JS,PHP,India,Wyndham Hotel Group,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134545,Marvan,9 LPA,PHP,Perl,India,Wyndham Hotel Group,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134547,Ranatunga,10 LPA,SQL,CSS,India,Olive Garden,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134548,Angelo,7.5 LPA,React JS,Java,India,Mercy Health,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134550,Dilhara,8 LPA,Perl,Angular JS,India,Recover Health,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134551,Tilkaratene,9 LPA,AWS,CSS,India,The Goddard School,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134552,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,The Goddard School,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134553,Muthaiaa,9 LPA,"C, C++",Angular JS,India,Weed Man,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134554,Murlitharan,8 LPA,AWS,HTML,India,HCA-Mountain,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134555,Roshan,9 LPA,"HTML,CSS",SQL,India,HCA-Mountain,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134556,Mahanama,10 LPA,"C, C++",AWS,India,National Recoveries,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134557,Dharamsena,11 LPA,"HTML,CSS",SQL,India,Jo-Ann Fabric and Craft Stores,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134558,Sangakara,12 LPA,Perl,Angular JS,India,Sports Authority,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134559,Jayawardene,8 LPA,GIT,Angular JS,India,Sports Authority,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134560,Mathews,9 LPA,"HTML,CSS",AWS,India,NA,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134561,Chandana,8 LPA,PHP,CSS,India,20/20 Express,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134563,Upul,9 LPA,Java,HTML,India,"Maxim Healthcare Services, Inc",Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134564,Tharanga,8 LPA,"HTML,CSS",PHP,India,Dart Container,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134566,Rajverdhan,9 LPA,Java,HTML,India,UPS,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134567,Senanayake,8 LPA,"HTML,CSS",SQL,India,UPS,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134568,Brian,9 LPA,"HTML,CSS",Perl,Peru,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134569,Lara,9 LPA,GIT,CSS,Peru,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134571,Curtely ,8 LPA,Perl,GIT,Colombia,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134572,Ambrose,7.5 LPA,AWS,Azure,Brazil,UPS,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+134574,Garry,3 LPA,AWS,GIT,Brazil,Guthrie Healthcare System,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134575,Sobers,9 LPA,Docker,Kotlin,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134576,Ian,9 LPA,Java,React JS,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134577,Bishop,5 LPA,Python,Angular JS,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134578,Chris,5 LPA,Angular JS,Ruby,Argentina,UPS,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134579,Gayel,4 LPA,"C, C++",Java,Argentina,Firestone Complete Auto Care,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134580,Carl,5 LPA,"HTML,CSS",Perl,Argentina,Firestone Complete Auto Care,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134581,Hooper,2 LPA,Node JS,PHP,Argentina,Firestone Complete Auto Care,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134582,Ramnaresh,5 LPA,Perl,SQL,Argentina,Murphy USA,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134583,Sarwan,6.5 LPA,SQL,CSS,Argentina,Murphy USA,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134589,Shivnarein,3 LPA,React JS,AWS,Argentina,HCA-Capital DIvision,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134590,Chanderpaul,3 LPA,Java,Angular JS,Colombia,HCA-Capital DIvision,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134591,Dwayen,2 LPA,Angular JS,CSS,Colombia,HCA-Capital DIvision,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134593,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,KeyBank,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134594,Darren,15 LPA,"C, C++",AWS,Colombia,KeyBank,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+134595,Bravo,12 LPA,React JS,HTML,Colombia,KeyBank,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134597,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,KeyBank,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+134598,Pollard,8 LPA,AWS,PHP,Colombia,KeyBank,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+134599,Steve,8 LPA,"HTML,CSS",SQL,Colombia,HCA Physician Services,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136396,Waugh,9 LPA,Java,Angular JS,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136397,Mark,8.5 LPA,Java,Angular JS,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136398,Waugh,7.5 LPA,React JS,Java,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136399,Grant,8 LPA,PHP,CSS,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136400,Jones,9 LPA,Java,HTML,Alberta,Claremont University Consortium,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136401,Andy,10 LPA,"HTML,CSS",PHP,British Colombia,Belmont Village Westwood,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136402,Flower,12 LPA,Java,HTML,Alberta,Belmont Village Westwood,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136403,Ian,13 LPA,"HTML,CSS",SQL,British Colombia,Belmont Village Westwood,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136404,Chappel,8 LPA,Java,React JS,Alberta,Decton Group of companies,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136405,Matthew,12 LPA,Python,Angular JS,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136406,Hayden,13 LPA,Angular JS,Ruby,Alberta,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136407,Adam,8 LPA,"C, C++",Java,British  Colombia,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136408,Gilchrist,9 LPA,"HTML,CSS",SQL,British Colombia,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136409,Glenn,8 LPA,Node JS,PHP,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136410,McGrath,6.5 LPA,PHP,Perl,Alberta,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136411,Jason,9 LPA,SQL,CSS,Alberta,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136412,Gillesspie,10 LPA,React JS,Java,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136413,Brett,7.5 LPA,Perl,Angular JS,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136414,Lee,8 LPA,AWS,CSS,Alberta,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136415,Andy,9 LPA,"HTML,CSS",Perl,British Colombia,Wells Fargo,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136416,Bichel,8 LPA,"C, C++",Angular JS,British  Colombia,Wells Fargo,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136417,Michael,9 LPA,AWS,HTML,Alberta,Murphy USA,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136419,Kasporwichz,8 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136420,Balwinder,9 LPA,"C, C++",AWS,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136421,Sandhu,10 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136422,Kapil,11 LPA,Perl,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136423,Dev,12 LPA,GIT,Angular JS,Alberta,Reddaway,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136424,Sunil,8 LPA,"HTML,CSS",AWS,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136425,Gavaskar,9 LPA,PHP,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136426,Kriss,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136427,Srikanth,9 LPA,"HTML,CSS",PHP,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136428,Danny,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136429,Morrison,9 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136430,Martin,8 LPA,"HTML,CSS",Perl,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136431,Crowe,9 LPA,GIT,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136432,Joel,9 LPA,Perl,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136433,Garner,8 LPA,AWS,Azure,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136434,Gordon,7.5 LPA,AWS,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136435,Grinidge,3 LPA,Docker,Kotlin,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136436,Steven,9 LPA,"HTML,CSS",Perl,Peru,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136437,Harmission,9 LPA,GIT,CSS,Peru,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136438,Marcus,8 LPA,Perl,GIT,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136439,Terscotick,7.5 LPA,AWS,Azure,Brazil,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136440,Andrew,3 LPA,AWS,GIT,Brazil,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136441,Srtrauss,9 LPA,Docker,Kotlin,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136442,Jimmy,9 LPA,Java,React JS,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136443,Anderson,5 LPA,Python,Angular JS,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136444,Stuart,5 LPA,Angular JS,Ruby,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136445,Board,4 LPA,"C, C++",Java,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136446,Chris,5 LPA,"HTML,CSS",Perl,Argentina,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136447,Board,2 LPA,Node JS,PHP,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136448,Darren,5 LPA,Perl,SQL,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136449,Gough,6.5 LPA,SQL,CSS,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136450,Monty,3 LPA,React JS,AWS,Argentina,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136451,Panesar,3 LPA,Java,Angular JS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136452,Chris,2 LPA,Angular JS,CSS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136453,Woaks,10 LPA,"HTML,CSS",React JS,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136454,Steven,15 LPA,"C, C++",AWS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136455,Gerrad,12 LPA,React JS,HTML,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136456,Wasim,15 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136457,Akram,8 LPA,AWS,PHP,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136458,Waqr,8 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136459,Younis,9 LPA,Java,Angular JS,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136460,Saqlain,8.5 LPA,Java,Angular JS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136461,Maustq,7.5 LPA,React JS,Java,Colombia,Accountemps,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136462,Shane,8 LPA,PHP,CSS,Colombia,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136463,Bond,9 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136464,Shane,10 LPA,"HTML,CSS",PHP,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136465,Warne,12 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136466,Paul,13 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136468,Strang,8 LPA,Java,React JS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136469,Shaun,12 LPA,Python,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136470,Pollouck,13 LPA,Angular JS,Ruby,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136471,Nike,8 LPA,"C, C++",Java,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136472,Boyje,9 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136473,Makhya,8 LPA,Node JS,PHP,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136474,Nitini,6.5 LPA,PHP,Perl,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136475,Lungi,9 LPA,SQL,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136476,Ngidi,10 LPA,React JS,Java,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136477,Hamilton,7.5 LPA,Perl,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136478,Masakadza,8 LPA,AWS,CSS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136479,Tatenda,9 LPA,"HTML,CSS",Perl,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136480,Taibu,8 LPA,"C, C++",Angular JS,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136481,Heath,9 LPA,AWS,HTML,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136482,Streak,8 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136483,Henry,9 LPA,"C, C++",AWS,British  Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136484,Olanga,10 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136485,Douglas,11 LPA,Perl,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136486,Hondo,12 LPA,GIT,Angular JS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136487,Morne,8 LPA,"HTML,CSS",AWS,British Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136488,Morkel,9 LPA,PHP,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136489,Albie,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136490,Morkel,9 LPA,"HTML,CSS",PHP,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136491,Alvero,8 LPA,Java,HTML,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136492,Pertersan,9 LPA,"HTML,CSS",SQL,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136493,Andrew,8 LPA,"HTML,CSS",Perl,British Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136494,Filntoff,9 LPA,GIT,CSS,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136495,Yuvraj,9 LPA,Perl,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136496,Singh,8 LPA,AWS,Azure,Alberta,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136497,Harbhajan,7.5 LPA,AWS,GIT,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136498,Singh,3 LPA,Docker,Kotlin,Alberta,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136499,Amit Kumar,5 LPA,Java,React JS,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136500,Aniket M,5 LPA,Python,Angular JS,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136501,Sandeep,4 LPA,Angular JS,Ruby,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136502,Sandesh,5 LPA,"C, C++",Java,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136503,Sumant,2 LPA,"HTML,CSS",Perl,India,Accountemps,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136504,Vijay,5 LPA,Node JS,PHP,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136505,Dilip,6.5 LPA,Perl,SQL,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136506,Suraj,3 LPA,SQL,CSS,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136507,Ranga,3 LPA,React JS,AWS,India,Accountemps,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136508,Rajesh,2 LPA,Java,Angular JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136509,Sunil,10 LPA,Angular JS,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136510,Ankit,15 LPA,"HTML,CSS",React JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136511,Varun,12 LPA,"C, C++",AWS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136512,Aditya,15 LPA,React JS,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136513,Sourav,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136514,Sachin,8 LPA,AWS,PHP,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136515,Rahul,9 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136516,Laxman,8.5 LPA,Java,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136517,Virender,7.5 LPA,Java,Angular JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136518,Mahender,8 LPA,React JS,Java,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136519,Ajit,9 LPA,PHP,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136520,Zaheer,10 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136521,Balaji,12 LPA,"HTML,CSS",PHP,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136522,Anil,13 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136523,Javagal,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136524,Venktesh,12 LPA,Java,React JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136525,Debashish,13 LPA,Python,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136526,Naman,8 LPA,Angular JS,Ruby,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136527,Romesh,9 LPA,"C, C++",Java,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136528,Ramesh,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136529,Chaminda,6.5 LPA,Node JS,PHP,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136530,Marvan,9 LPA,PHP,Perl,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136531,Ranatunga,10 LPA,SQL,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136532,Angelo,7.5 LPA,React JS,Java,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136533,Dilhara,8 LPA,Perl,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136534,Tilkaratene,9 LPA,AWS,CSS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136535,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136536,Muthaiaa,9 LPA,"C, C++",Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136537,Murlitharan,8 LPA,AWS,HTML,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136538,Roshan,9 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136539,Mahanama,10 LPA,"C, C++",AWS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136540,Dharamsena,11 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136541,Sangakara,12 LPA,Perl,Angular JS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136542,Jayawardene,8 LPA,GIT,Angular JS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136543,Mathews,9 LPA,"HTML,CSS",AWS,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136544,Chandana,8 LPA,PHP,CSS,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136545,Upul,9 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136546,Tharanga,8 LPA,"HTML,CSS",PHP,India,OfficeTeam,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136547,Rajverdhan,9 LPA,Java,HTML,India,Hooper Holmes,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136548,Senanayake,8 LPA,"HTML,CSS",SQL,India,Hooper Holmes,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136549,Brian,9 LPA,"HTML,CSS",Perl,Peru,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136550,Lara,9 LPA,GIT,CSS,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136551,Curtely ,8 LPA,Perl,GIT,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136552,Ambrose,7.5 LPA,AWS,Azure,Brazil,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136553,Garry,3 LPA,AWS,GIT,Brazil,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136554,Sobers,9 LPA,Docker,Kotlin,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136555,Ian,9 LPA,Java,React JS,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136556,Bishop,5 LPA,Python,Angular JS,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136557,Chris,5 LPA,Angular JS,Ruby,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136558,Gayel,4 LPA,"C, C++",Java,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136559,Carl,5 LPA,"HTML,CSS",Perl,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136560,Hooper,2 LPA,Node JS,PHP,Argentina,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136561,Ramnaresh,5 LPA,Perl,SQL,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136562,Sarwan,6.5 LPA,SQL,CSS,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136563,Shivnarein,3 LPA,React JS,AWS,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136564,Chanderpaul,3 LPA,Java,Angular JS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136565,Dwayen,2 LPA,Angular JS,CSS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136566,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136567,Darren,15 LPA,"C, C++",AWS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136568,Bravo,12 LPA,React JS,HTML,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136569,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136570,Pollard,8 LPA,AWS,PHP,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136571,Steve,8 LPA,"HTML,CSS",SQL,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136572,Waugh,9 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136573,Mark,8.5 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136574,Waugh,7.5 LPA,React JS,Java,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136575,Grant,8 LPA,PHP,CSS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136576,Jones,9 LPA,Java,HTML,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136577,Andy,10 LPA,"HTML,CSS",PHP,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136578,Flower,12 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136579,Ian,13 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136580,Chappel,8 LPA,Java,React JS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136581,Matthew,12 LPA,Python,Angular JS,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136582,Hayden,13 LPA,Angular JS,Ruby,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136583,Adam,8 LPA,"C, C++",Java,British  Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136584,Gilchrist,9 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136585,Glenn,8 LPA,Node JS,PHP,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136586,McGrath,6.5 LPA,PHP,Perl,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136587,Jason,9 LPA,SQL,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136588,Gillesspie,10 LPA,React JS,Java,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136589,Brett,7.5 LPA,Perl,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136590,Lee,8 LPA,AWS,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136591,Andy,9 LPA,"HTML,CSS",Perl,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136592,Bichel,8 LPA,"C, C++",Angular JS,British  Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136593,Michael,9 LPA,AWS,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136594,Kasporwichz,8 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136595,Balwinder,9 LPA,"C, C++",AWS,British  Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136596,Sandhu,10 LPA,"HTML,CSS",SQL,British Colombia,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136597,Kapil,11 LPA,Perl,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136599,Dev,12 LPA,GIT,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136600,Sunil,8 LPA,"HTML,CSS",AWS,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136601,Gavaskar,9 LPA,PHP,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136602,Kriss,8 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136603,Srikanth,9 LPA,"HTML,CSS",PHP,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136604,Danny,8 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136605,Morrison,9 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136606,Martin,8 LPA,"HTML,CSS",Perl,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136607,Crowe,9 LPA,GIT,CSS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136608,Joel,9 LPA,Perl,GIT,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136609,Garner,8 LPA,AWS,Azure,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136610,Gordon,7.5 LPA,AWS,GIT,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136611,Grinidge,3 LPA,Docker,Kotlin,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136612,Steven,9 LPA,"HTML,CSS",Perl,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136613,Harmission,9 LPA,GIT,CSS,Peru,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136614,Marcus,8 LPA,Perl,GIT,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136615,Terscotick,7.5 LPA,AWS,Azure,Brazil,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136616,Andrew,3 LPA,AWS,GIT,Brazil,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136617,Srtrauss,9 LPA,Docker,Kotlin,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136618,Jimmy,9 LPA,Java,React JS,Argentina,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136619,Anderson,5 LPA,Python,Angular JS,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136620,Stuart,5 LPA,Angular JS,Ruby,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136621,Board,4 LPA,"C, C++",Java,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136622,Chris,5 LPA,"HTML,CSS",Perl,Argentina,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136623,Board,2 LPA,Node JS,PHP,Argentina,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136624,Darren,5 LPA,Perl,SQL,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136625,Gough,6.5 LPA,SQL,CSS,Argentina,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136626,Monty,3 LPA,React JS,AWS,Argentina,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136627,Panesar,3 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136628,Chris,2 LPA,Angular JS,CSS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136629,Woaks,10 LPA,"HTML,CSS",React JS,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136630,Steven,15 LPA,"C, C++",AWS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136632,Gerrad,12 LPA,React JS,HTML,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136633,Wasim,15 LPA,"HTML,CSS",SQL,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136634,Akram,8 LPA,AWS,PHP,Colombia,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136635,Waqr,8 LPA,"HTML,CSS",SQL,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136636,Younis,9 LPA,Java,Angular JS,Colombia,Hooper Holmes,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136637,Saqlain,8.5 LPA,Java,Angular JS,Colombia,OfficeTeam,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136638,Maustq,7.5 LPA,React JS,Java,Colombia,OfficeTeam,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136639,Shane,8 LPA,PHP,CSS,Colombia,Hooper Holmes,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136640,Bond,9 LPA,Java,HTML,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136641,Shane,10 LPA,"HTML,CSS",PHP,British Colombia,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136642,Warne,12 LPA,Java,HTML,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136643,Paul,13 LPA,"HTML,CSS",SQL,British Colombia,OfficeTeam,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136644,Strang,8 LPA,Java,React JS,Alberta,OfficeTeam,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136645,Shaun,12 LPA,Python,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136646,Pollouck,13 LPA,Angular JS,Ruby,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136647,Nike,8 LPA,"C, C++",Java,British  Colombia,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136648,Boyje,9 LPA,"HTML,CSS",SQL,British Colombia,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136649,Makhya,8 LPA,Node JS,PHP,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136650,Nitini,6.5 LPA,PHP,Perl,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136651,Lungi,9 LPA,SQL,CSS,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136652,Ngidi,10 LPA,React JS,Java,Alberta,Permian Premier,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136653,Hamilton,7.5 LPA,Perl,Angular JS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136654,Masakadza,8 LPA,AWS,CSS,Alberta,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136655,Tatenda,9 LPA,"HTML,CSS",Perl,British Colombia,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136656,Taibu,8 LPA,"C, C++",Angular JS,British  Colombia,Hooper Holmes,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136657,Heath,9 LPA,AWS,HTML,Alberta,Hooper Holmes,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136658,Streak,8 LPA,"HTML,CSS",SQL,British Colombia,Music and Arts,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136659,Henry,9 LPA,"C, C++",AWS,British  Colombia,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136660,Olanga,10 LPA,"HTML,CSS",SQL,British Colombia,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136661,Douglas,11 LPA,Perl,Angular JS,Alberta,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136662,Hondo,12 LPA,GIT,Angular JS,Alberta,Music and Arts,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136663,Morne,8 LPA,"HTML,CSS",AWS,British Colombia,Music and Arts,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136664,Morkel,9 LPA,PHP,CSS,Alberta,Music and Arts,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136665,Albie,8 LPA,Java,HTML,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136666,Morkel,9 LPA,"HTML,CSS",PHP,British Colombia,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136667,Alvero,8 LPA,Java,HTML,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136668,Pertersan,9 LPA,"HTML,CSS",SQL,British Colombia,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136669,Andrew,8 LPA,"HTML,CSS",Perl,British Colombia,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136670,Filntoff,9 LPA,GIT,CSS,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136671,Yuvraj,9 LPA,Perl,GIT,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136672,Singh,8 LPA,AWS,Azure,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136673,Harbhajan,7.5 LPA,AWS,GIT,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136674,Singh,3 LPA,Docker,Kotlin,Alberta,Planned Parenthood Orange County / San Bernardino,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136675,Amit Kumar,5 LPA,Java,React JS,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136676,Aniket M,5 LPA,Python,Angular JS,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136677,Sandeep,4 LPA,Angular JS,Ruby,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136678,Sandesh,5 LPA,"C, C++",Java,India,Planned Parenthood Orange County / San Bernardino,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136679,Sumant,2 LPA,"HTML,CSS",Perl,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136680,Vijay,5 LPA,Node JS,PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136681,Dilip,6.5 LPA,Perl,SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136682,Suraj,3 LPA,SQL,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136683,Ranga,3 LPA,React JS,AWS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136684,Rajesh,2 LPA,Java,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136685,Sunil,10 LPA,Angular JS,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136686,Ankit,15 LPA,"HTML,CSS",React JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136689,Varun,12 LPA,"C, C++",AWS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136690,Aditya,15 LPA,React JS,HTML,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136691,Sourav,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136692,Sachin,8 LPA,AWS,PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136693,Rahul,9 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136694,Laxman,8.5 LPA,Java,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136695,Virender,7.5 LPA,Java,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136696,Mahender,8 LPA,React JS,Java,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136697,Ajit,9 LPA,PHP,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136698,Zaheer,10 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136699,Balaji,12 LPA,"HTML,CSS",PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136700,Anil,13 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136701,Javagal,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136702,Venktesh,12 LPA,Java,React JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136703,Debashish,13 LPA,Python,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136704,Naman,8 LPA,Angular JS,Ruby,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136705,Romesh,9 LPA,"C, C++",Java,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136706,Ramesh,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136707,Chaminda,6.5 LPA,Node JS,PHP,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136708,Marvan,9 LPA,PHP,Perl,India,OfficeTeam,Indian Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136709,Ranatunga,10 LPA,SQL,CSS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136710,Angelo,7.5 LPA,React JS,Java,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136711,Dilhara,8 LPA,Perl,Angular JS,India,BAYADA HOME HEALTH CARE,Indian Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136712,Tilkaratene,9 LPA,AWS,CSS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136713,Kaluvithana,8 LPA,"HTML,CSS",Perl,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136714,Muthaiaa,9 LPA,"C, C++",Angular JS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136715,Murlitharan,8 LPA,AWS,HTML,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136716,Roshan,9 LPA,"HTML,CSS",SQL,India,Accountemps,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136717,Mahanama,10 LPA,"C, C++",AWS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136718,Dharamsena,11 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136719,Sangakara,12 LPA,Perl,Angular JS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136720,Jayawardene,8 LPA,GIT,Angular JS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136721,Mathews,9 LPA,"HTML,CSS",AWS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136722,Chandana,8 LPA,PHP,CSS,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136723,Upul,9 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136724,Tharanga,8 LPA,"HTML,CSS",PHP,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136725,Rajverdhan,9 LPA,Java,HTML,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136726,Senanayake,8 LPA,"HTML,CSS",SQL,India,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136727,Brian,9 LPA,"HTML,CSS",Perl,Peru,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136728,Lara,9 LPA,GIT,CSS,Peru,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136729,Curtely ,8 LPA,Perl,GIT,Colombia,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136730,Ambrose,7.5 LPA,AWS,Azure,Brazil,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136731,Garry,3 LPA,AWS,GIT,Brazil,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136732,Sobers,9 LPA,Docker,Kotlin,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136733,Ian,9 LPA,Java,React JS,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136734,Bishop,5 LPA,Python,Angular JS,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136736,Chris,5 LPA,Angular JS,Ruby,Argentina,Kelly Services,Eastren Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136737,Gayel,4 LPA,"C, C++",Java,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136738,Carl,5 LPA,"HTML,CSS",Perl,Argentina,BAYADA HOME HEALTH CARE,Eastren Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136739,Hooper,2 LPA,Node JS,PHP,Argentina,Navy Federal Credit Union,Eastren Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136740,Ramnaresh,5 LPA,Perl,SQL,Argentina,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136741,Sarwan,6.5 LPA,SQL,CSS,Argentina,FL Cancer Specialists,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136742,Shivnarein,3 LPA,React JS,AWS,Argentina,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136744,Chanderpaul,3 LPA,Java,Angular JS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136745,Dwayen,2 LPA,Angular JS,CSS,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136746,Bravo,10 LPA,"HTML,CSS",React JS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136747,Darren,15 LPA,"C, C++",AWS,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136748,Bravo,12 LPA,React JS,HTML,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136749,Kiron,15 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136750,Pollard,8 LPA,AWS,PHP,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136751,Steve,8 LPA,"HTML,CSS",SQL,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Part Time
+136752,Waugh,9 LPA,Java,Angular JS,Colombia,Accountemps,Mountain Standrad Time,Morning Shift-9 am to 6 pm,Full Time 
+136753,Mark,8.5 LPA,Java,Angular JS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136754,Waugh,7.5 LPA,React JS,Java,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Part Time
+136755,Grant,8 LPA,PHP,CSS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136756,Grant,9 LPA,PHP,CSS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
+136757,Grant,10 LPA,PHP,CSS,Colombia,Accountemps,Mountain Standrad Time,Night Shift-10 pm to 7 am,Full Time 
